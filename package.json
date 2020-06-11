@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@nexus/schema": "0.13.1",
-    "@prisma-labs/prettier-config": "^0.1.0",
+    "@prisma-labs/prettier-config": "0.1.0",
     "@prisma/cli": "2.0.0",
     "@prisma/client": "2.0.0",
     "@prisma/fetch-engine": "2.0.0",
